@@ -1,0 +1,44 @@
+Begin Object Class=/Script/Engine.Blueprint Name="Harbour"
+   Begin Object Class=/Script/Engine.EdGraph Name="EventGraph"
+   End Object
+   Begin Object Class=/Script/Engine.EdGraph Name="UserConstructionScript"
+      Begin Object Class=/Script/BlueprintGraph.K2Node_FunctionEntry Name="K2Node_FunctionEntry_0"
+      End Object
+   End Object
+   Begin Object Class=/Script/UnrealEd.SceneThumbnailInfo Name="SceneThumbnailInfo_0"
+   End Object
+   Begin Object Name="EventGraph"
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      bAllowDeletion=False
+      GraphGuid=C01B22EE4173F1890CAF3EBEA2FC7114
+   End Object
+   Begin Object Name="UserConstructionScript"
+      Begin Object Name="K2Node_FunctionEntry_0"
+         SignatureClass=Class'"/Script/Engine.Actor"'
+         SignatureName="UserConstructionScript"
+         NodeGuid=AA8502754F227A08A864459C2ADB9F40
+         CustomProperties Pin (PinId=4E6D07EB4A8BEDCFB32996A005BEC60E,PinName="then",Direction="EGPD_Output",PinType.PinCategory="exec",PinType.PinSubCategory="",PinType.PinSubCategoryObject=None,PinType.PinSubCategoryMemberReference=(),PinType.PinValueType=(),PinType.ContainerType=None,PinType.bIsArray=False,PinType.bIsReference=False,PinType.bIsConst=False,PinType.bIsWeakPointer=False,PersistentGuid=00000000000000000000000000000000,bHidden=False,bNotConnectable=False,bDefaultValueIsReadOnly=False,bDefaultValueIsIgnored=False,bAdvancedView=False,bOrphanedPin=False,)
+      End Object
+      Schema=Class'"/Script/BlueprintGraph.EdGraphSchema_K2"'
+      Nodes(0)=K2Node_FunctionEntry'"K2Node_FunctionEntry_0"'
+      bAllowDeletion=False
+      GraphGuid=D22FF99A4510B69A4027E48156C37756
+   End Object
+   Begin Object Name="SceneThumbnailInfo_0"
+   End Object
+   ParentClass=Class'"/Script/Engine.GameModeBase"'
+   SimpleConstructionScript=SimpleConstructionScript'"Harbour_C:SimpleConstructionScript_0"'
+   UbergraphPages(0)=EdGraph'"EventGraph"'
+   FunctionGraphs(0)=EdGraph'"UserConstructionScript"'
+   CategorySorting(0)="Default"
+   CategorySorting(1)=""
+   CategorySorting(2)="Event Graph"
+   BlueprintSystemVersion=2
+   LastEditedDocuments(0)=(EditedObject=EdGraph'"UserConstructionScript"',SavedZoomAmount=1.000000)
+   LastEditedDocuments(1)=(EditedObject=EdGraph'"EventGraph"',SavedViewOffset=(X=-26.894171,Y=-401.440521),SavedZoomAmount=0.750000)
+   ThumbnailInfo=SceneThumbnailInfo'"SceneThumbnailInfo_0"'
+   GeneratedClass=BlueprintGeneratedClass'"Harbour_C"'
+   bLegacyNeedToPurgeSkelRefs=False
+   bLegacyGeneratedClassIsAuthoritative=True
+   BlueprintGuid=18FD6D85425D4D71334F7AACF3B1A6D3
+End Object
